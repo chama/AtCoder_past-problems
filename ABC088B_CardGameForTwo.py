@@ -12,3 +12,8 @@ for i,v in enumerate(an):
         bob += v
 
 print(alice - bob)
+
+
+# n = int(input())
+# a = sorted(list(map(int, input().split())), reverse=True)
+# print(sum(a[::2]) - sum(a[1::2])) #a[start:end:step]
