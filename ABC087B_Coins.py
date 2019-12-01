@@ -2,6 +2,7 @@ a = int(input())
 b = int(input())
 c = int(input())
 x = int(input())
+#a, b, c, x = map(int, [input() for i in range(4)])
 
 ans = 0
 for i in reversed(range(a + 1)):
